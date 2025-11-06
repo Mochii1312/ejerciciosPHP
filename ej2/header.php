@@ -5,6 +5,7 @@ require_once 'config.php';
 <html lang="es">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title><?= $site_title ?></title>
     <style>
         nav{
@@ -28,7 +29,7 @@ require_once 'config.php';
         <a href="index.php">Inicio</a>
         <a href="about.php">Acerca</a>
         <a href="contact.php">Contacto</a>
-        <a href="services.php">Servicios</a>
+        <a href="services.php">Albumes</a>
     </nav>
 </header>
 </body>

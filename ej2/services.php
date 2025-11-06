@@ -14,37 +14,37 @@ include 'header.php'; ?>
         background-color: lightcoral;
     }
 
-    .album3{
-        margin-left: 100px;
+    /*.album3{
+        /*margin-left: 100px;
     }
     .album4{
-        margin-left: 300px;
+        /*margin-left: 300px;
     }
     .album5{
         margin-left: 300px;
-    }
+    }*/
     .album6{
-        margin-left: 100px;
-        width: 300px;
-        height: 300px;
+        /*margin-left: 100px;*/
+        width: 30%;
+        height: auto;
     }
     .album7{
-        margin-left: 300px;
-        width: 300px;
-        height: 300px;
+        /*margin-left: 300px;*/
+        width: 30%;
+        height: auto;
     }
     .album8{
-        margin-left: 300px;
-        width: 300px;
-        height: 300px;
+       /* margin-left: 300px;*/
+        width: 30%;
+        height: auto;
     }
 
     .titulo{
     display: flex;
-        margin-left: 100px;
+        /*margin-left: 100px;*/
 
     }
-    .titulos{
+    /*.titulos{
         display: flex;
         margin-left: 100px;
     }
@@ -65,7 +65,7 @@ include 'header.php'; ?>
     }
     .titulo6{
         margin-left: 470px;
-    }
+    }*/
     </style>
 </head>
 <body>
